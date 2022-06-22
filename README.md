@@ -1,0 +1,2 @@
+# springcloudconfigtest2
+springcloud配置中心测试2
